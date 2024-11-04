@@ -198,5 +198,5 @@
 
 <div align="center"> <b> Show some ❤️ by starring some of my repositories! </b> </div>
 <div>
-  # My Tech Stack
+  # Check My Pined Repo's 
 </div>
