@@ -11,12 +11,12 @@
 
 **I am currently pursuing my B Tech degree in Information Technology from Anil Neerukonda Institute of Technology & Sciences, Visakhapatanam**
 
-* 🌍  I'm based in **Vishakapatnam**
+* 🌍  I'm based in **Vishakapatnam, Andhra Pradhesh, India**
 * ✉️  You can contact me at [ganarajukarthikvarma1635@gmail.com](mailto:ganarajukarthikvarma1635@gmail.com)
 * 🌱 I’m currently focusing on **DSA.**
 * 🧠 I am an aspiring **mern stack developer** and an **cloud enthusiast** along with other skills like Java, Javascript, Python, C.
 * 👯 I’m looking forward to **be a part of various interesting projects.**
-* 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
+* 🤝 I’m **learning & exploring new technologies.**
 
   <!--Connect Section Start-->
 <h3 align="left">Let's Connect 🤝 :</h3>
