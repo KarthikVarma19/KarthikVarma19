@@ -55,8 +55,9 @@
 <br> 
 
 <div align="center">
-
-
+ <img src="README/techstack.svg" alt = "My tech Stack">
+  <!--Skills Section in Table Format-->
+<!--
 | **Programming_Languages**                           | **Frontend_Tools**                                      | **Backend_Tools**                                       | **Data_Related**                                      | **IDEs/Softwares**                                           | **Other_Tools**                                    |
 | --------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- |
 | <p align="center">[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/KarthikVarma19) </p>| <p align="center"> [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://github.com/KarthikVarma19) </p>| <p align="center">[![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://github.com/KarthikVarma19) | <p align="center">[![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=ffffff)](https://github.com/KarthikVarma19) |<p align="center">[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)](https://github.com/KarthikVarma19)  |  <p align="center">[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://github.com/KarthikVarma19)  |
@@ -65,7 +66,8 @@
 |<p align="center"> [![C/C++](http://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=ffffff)](https://github.com/KarthikVarma19) | <p align="center">[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)](https://github.com/KarthikVarma19) |<p align="center"> |  <p align="center"> [![Sqllite](https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/KarthikVarma19) |<p align="center">  | <p align="center">  |
 | <p align="center"> | <p align="center">[![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/KarthikVarma19) | <p align="center"> |  <p align="center">[![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)](https://github.com/KarthikVarma19)  |<p align="center">  |<p align="center">  |
 </div>
-
+-->
+ 
 <!--Skills Section End-->
 
 <!--LeetCode Section Start-->
@@ -195,3 +197,6 @@
 <!-- Footer Section-->
 
 <div align="center"> <b> Show some ❤️ by starring some of my repositories! </b> </div>
+<div>
+  # My Tech Stack
+</div>
