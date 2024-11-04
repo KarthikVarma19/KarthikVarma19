@@ -195,8 +195,13 @@
 
 
 <!-- Footer Section-->
-
-<div align="center"> <b> Show some ❤️ by starring some of my repositories! </b> </div>
+### sʜᴏᴡ sᴏᴍᴇ 💙 ʙʏ sᴛᴀʀʀɪɴɢ ⭐ sᴏᴍᴇ ᴏғ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs!
 <div>
-  # Check My Pinned Repo's 
+  <p align="center">
+  <a href="https://github.com/DatlaRakeshVarma"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Happy%20Coding❤️;Take%20A%20Look%20at%20my%20Repo's%20⭐👇;Follow..;Your%20Dreams%20😉;&font=wildword&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
+</p>
+
+<a href="https://github.com/KarthikVarma19">
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</a>
 </div>
