@@ -92,9 +92,9 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100" height="100" align="center" /> 
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100" height="80" align="center" /> 
   <br>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="100" height="100" align="center" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="100" height="80" align="center" />
 </td>
 <td>
   <img width="430em" src="https://leetcard.jacoblin.cool/KarthikVarma19?theme=dark&font=Nunito&ext=heatmap" alt="Streak Stats"/>
@@ -198,5 +198,5 @@
 
 <div align="center"> <b> Show some ❤️ by starring some of my repositories! </b> </div>
 <div>
-  # Check My Pined Repo's 
+  # Check My Pinned Repo's 
 </div>
