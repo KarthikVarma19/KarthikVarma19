@@ -13,7 +13,7 @@
 
 * 🌍  I'm based in **Vishakapatnam, Andhra Pradhesh, India**
 * ✉️  You can contact me at [ganarajukarthikvarma1635@gmail.com](mailto:ganarajukarthikvarma1635@gmail.com)
-* 🌱 I’m currently focusing on **DSA,Spring,SpringBoot,React.js.**
+* 🌱 I’m currently focusing on **DSA, Spring, SpringBoot, React.js.**
 * 🧠 I am an aspiring **mern stack developer** and an **cloud enthusiast** along with other skills like Java, Javascript, Python, C.
 * 👯 I’m looking forward to **be a part of various interesting projects.**
 * 🤝 I’m **learning & exploring new technologies.**
