@@ -13,7 +13,7 @@
 
 * 🌍  I'm based in **Vishakapatnam, Andhra Pradhesh, India**
 * ✉️  You can contact me at [ganarajukarthikvarma1635@gmail.com](mailto:ganarajukarthikvarma1635@gmail.com)
-* 🌱 I’m currently focusing on **DSA.**
+* 🌱 I’m currently focusing on **DSA,Spring,SpringBoot,React.js.**
 * 🧠 I am an aspiring **mern stack developer** and an **cloud enthusiast** along with other skills like Java, Javascript, Python, C.
 * 👯 I’m looking forward to **be a part of various interesting projects.**
 * 🤝 I’m **learning & exploring new technologies.**
@@ -199,7 +199,7 @@
 ### sʜᴏᴡ sᴏᴍᴇ 💙 ʙʏ sᴛᴀʀʀɪɴɢ ⭐ sᴏᴍᴇ ᴏғ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs!
 <div>
   <p align="center">
-  <a href="https://github.com/DatlaRakeshVarma"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Happy%20Coding❤️;Take%20A%20Look%20at%20my%20Repo's%20⭐👇;Follow..;Your%20Dreams%20😉;&font=wildword&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
+  <a href="https://github.com/KarthikVarma19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Happy%20Coding❤️;Take%20A%20Look%20at%20my%20Repo's%20⭐👇;Follow..;Your%20Dreams%20😉;&font=wildword&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
 </p>
 
 <a href="https://github.com/KarthikVarma19">
