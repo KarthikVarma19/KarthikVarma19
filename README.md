@@ -115,7 +115,8 @@
 <h3 align="center">
  <a href="https://github.com/KarthikVarma19">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/KarthikVarma19">
+    </a>
+  <a href="https://github.com/KarthikVarma19">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a> 
  【STATS】 
@@ -131,10 +132,10 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=KarthikVarma19&show_icons=true&locale=en&theme=blue" alt="GitHub Stats"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=KarthikVarma19&show_icons=true&locale=en&theme=blue" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="430em" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikVarma19&theme=blue" alt="Streak Stats"/>
+  <img width="45em" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikVarma19&theme=blue" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
