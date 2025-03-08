@@ -12,7 +12,7 @@
 **I am currently pursuing my B Tech degree in Information Technology from Anil Neerukonda Institute of Technology & Sciences, Visakhapatanam**
 
 * 🌍  I'm based in **Vishakapatnam, Andhra Pradhesh, India**
-* ✉️  You can contact me at [ganarajukarthikvarma1635@gmail.com](mailto:ganarajukarthikvarma1635@gmail.com)
+* ✉️  You can contact me at [karthikvarma.sde@gmail.com](mailto:karthikvarma.sde@gmail.com)
 * 🌱 I’m currently focusing on **DSA, Core Java, Javascript, React.js.**
 * 🧠 I am an aspiring **Software Developer** and a **MERN Stack Developer** along with other skills like Java, Javascript, Python, C.
 * 👯 I’m looking forward to **be a part of various interesting projects.**
@@ -20,16 +20,22 @@
 * 👨‍💻 Fun Fact:- **Software Developers can switch languages and tools faster than you can say "Hello, World!"**
   
   <!--Connect Section Start-->
-<h3 align="left">Let's Connect 🤝 :</h3>
+<h3 align="left">Let's Connect {🤝}:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karthikvarmaganaraju/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikvarmaganaraju" height="25" width="30" /></a>
-<a href="https://www.hackerrank.com/karthik_varma_19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karthik_varma_19" height="35" width="40" /></a>
+</p>
+<!--Connect Section End-->
+
+<!--Coding Profiles Section Start-->
+<h3 align="left">Let's Code Together {👨‍💻}:</h3>
+<p align="left">
+  <a href="https://www.hackerrank.com/karthik_varma_19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karthik_varma_19" height="35" width="40" /></a>
 <a href="https://www.leetcode.com/u/KarthikVarma19/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="KarthikVarma19" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/karthikvarma19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karthikvarma19" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/karthik1579" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/200/codechef.png" alt="karthik1579" height="35" width="45" /></a>
 <a href="https://www.naukri.com/code360/profile/gkv_567" target="_blank"><img align="center" src="https://pbs.twimg.com/profile_images/1772331192085274624/PlbkwMwX_400x400.png" alt="gkv_567" height="30" width="35" /></a>
 </p>
-<!--Connect Section End-->
+<!--Coding Profiles Section End-->
 <!--Intro Section End-->
 
 <!--Skills Section Start-->
